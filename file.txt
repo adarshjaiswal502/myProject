@@ -1,6 +1,3 @@
 file macos
-<<<<<<< HEAD
-changes in github
-=======
-changes in macos
->>>>>>> 65bd66a (changes from macos)
+changes in macos and github
+
